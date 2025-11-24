@@ -11,36 +11,18 @@ nav .nav-link{
 }
 
 nav img {
-
   max-height: 100px;
   object-fit: contain;
 }
 
 .nav2:hover {
-  background: #5c5656;
+  background:  #0e293a;
   color: #ffffff !important;
-  text-decoration: none; /* quitamos el subrayado feo XD */
-  border-bottom: 2px solid #000000;
-  border-radius: 12px;
-
-}
-
-.nav2 {
-  color: rgb(0, 0, 0);
-  padding: 8px  !important;
-  text-decoration: none;
-  border-radius: 6px;
-}
-
-.nav2:hover {
-  color: #ffffff;
-  background: linear-gradient(to bottom, #626de9, #000b70da);
-  text-decoration: underline;
-  
+  border-radius: 10px;
 }
 
 .nav2 i {
-  font-size: 20px;
+  font-size: 25px;
   margin-right: 8px;
 }
 
