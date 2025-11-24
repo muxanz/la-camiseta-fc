@@ -1,0 +1,51 @@
+/* .. estilos del nav .. */
+
+nav .nav-link{
+  padding: 10px 16px;
+  font-size: 16px;
+  background-size: black;
+}
+
+.navbar-nav { 
+  gap: 50px;
+}
+
+nav img {
+
+  max-height: 100px;
+  object-fit: contain;
+}
+
+.nav2:hover {
+  background: #5c5656;
+  color: #ffffff !important;
+  text-decoration: none; /* quitamos el subrayado feo XD */
+  border-bottom: 2px solid #000000;
+  border-radius: 12px;
+
+}
+
+.nav2 {
+  color: rgb(0, 0, 0);
+  padding: 8px  !important;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.nav2:hover {
+  color: #ffffff;
+  background-color: #000b70da;
+  text-decoration: underline;
+  
+}
+
+.nav2 i {
+  font-size: 20px;
+  margin-right: 8px;
+}
+
+.logo6{
+    left: 2%;
+}
+
+/* .. final de estilos del nav .. */
