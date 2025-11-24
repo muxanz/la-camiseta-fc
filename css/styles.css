@@ -34,7 +34,7 @@ nav img {
 
 .nav2:hover {
   color: #ffffff;
-  background-color: #000b70da;
+  background: linear-gradient(to bottom, #626de9, #000b70da);
   text-decoration: underline;
   
 }
