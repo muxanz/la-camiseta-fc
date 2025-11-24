@@ -31,3 +31,16 @@ nav img {
 }
 
 /* .. final de estilos del nav .. */
+
+/* Estilos card */
+.botonCard {
+    background-color: #0e293a;
+    color: white;
+    border-radius: 10px;    
+}
+
+.cardEquipo {
+    margin-left: 10px;
+    margin-r
+}
+/* Fin estilos card */
