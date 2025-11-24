@@ -18,8 +18,7 @@ nav img {
 .nav2:hover {
   background:  #0e293a;
   color: #ffffff !important;
-  border-bottom: 2px solid #000000;
-  border-radius: 12px;
+  border-radius: 10px;
 }
 
 .nav2 i {
